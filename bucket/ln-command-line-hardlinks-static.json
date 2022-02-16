@@ -1,7 +1,7 @@
 {
     "homepage": "https://schinagl.priv.at/nt/ln/ln.html",
     "version": "2.9.3.3",
-    "description": "Ln - Command line Hardlinks. No need for runtime dlls, thus can run under WinPE.",
+    "description": "This tool is kind of a NTFS Swiss Army Knife and can do lots of things, like create SmartCopies, which preserve the inner and outer Hardlink/Junction/SymbolicLink structure, does hardlink based incremental Backups and a lot of other things which can not be found anywhere.",
     "license": {
         "identifier": "Proprietary",
         "url": "https://schinagl.priv.at/nt/ln/license.txt"
