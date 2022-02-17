@@ -1,2 +1,2 @@
-# scoop-bucket-main
-My main scoop bucket
+# my-scoop
+My personal scoop bucket
