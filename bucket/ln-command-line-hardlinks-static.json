@@ -1,4 +1,5 @@
 {
+	"##": "Based on https://github.com/AntonOks/scoop-aoks/blob/master/bucket/ntfs-ln-aoks.json",
     "homepage": "https://schinagl.priv.at/nt/ln/ln.html",
     "version": "2.9.3.3",
     "description": "This tool is kind of a NTFS Swiss Army Knife and can do lots of things, like create SmartCopies, which preserve the inner and outer Hardlink/Junction/SymbolicLink structure, does hardlink based incremental Backups and a lot of other things which can not be found anywhere. \nNote 1: If aria2 fails to download this app, you may try the following command in PowerShell (not Command Prompt):\n  scoop config aria2-options @('--user-agent=\"aria2\"')\nNote 2: This static version does not require runtime dlls, thus can run under WinPE.",
